@@ -1,0 +1,23 @@
+# Node modules (if you use any Node tools)
+node_modules/
+
+# Python cache and bytecode files
+__pycache__/
+*.py[cod]
+
+# Environment variables (keep secrets out)
+.env
+
+# Logs and debug files
+*.log
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# VSCode workspace settings
+.vscode/
+
+# Build output folders (if any)
+dist/
+build/
