@@ -1,0 +1,20 @@
+/* Mobile First Styles */
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-color: hwb(210 24% 71%);
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    gap: 20px;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0;
+}
